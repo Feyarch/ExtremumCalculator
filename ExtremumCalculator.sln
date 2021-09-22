@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtremumCalculator", "ExtremumCalculator\ExtremumCalculator.csproj", "{C5650C0F-8872-45EB-8E1E-E2ED549E5CEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5650C0F-8872-45EB-8E1E-E2ED549E5CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5650C0F-8872-45EB-8E1E-E2ED549E5CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5650C0F-8872-45EB-8E1E-E2ED549E5CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5650C0F-8872-45EB-8E1E-E2ED549E5CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5847C690-5552-4BEB-B733-53652858574E}
+	EndGlobalSection
+EndGlobal
